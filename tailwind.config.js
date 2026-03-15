@@ -6,18 +6,18 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: '#030014',
-        secondary: '#151312',
+        primary: '#E2D9C9',
+        secondary: '#C5C1B4',
         light: {
-          100: '#D6C6FF',
-          200: '#A8B5DB',
-          300: '#9CA4AB',
+          100: '#F2C84B',
+          200: '#2D5A5E',
+          300: '#F8F8F8',
         },
-        dark: {
-          100: '#221F3D',
-          200: '#0F0D23',
+        dark: { // TODO: update colours
+          100: '#68605C',
+          200: '#463F3D',
         },
-        accent: '#AB8BFF'
+        accent: '#2D5A5E'
       }
     },
   },
